@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-final-cart/static/css/main.546112bb.chunk.css",
+    "main.js": "/react-final-cart/static/js/main.37e7b3d2.chunk.js",
+    "main.js.map": "/react-final-cart/static/js/main.37e7b3d2.chunk.js.map",
+    "runtime-main.js": "/react-final-cart/static/js/runtime-main.2ba6742b.js",
+    "runtime-main.js.map": "/react-final-cart/static/js/runtime-main.2ba6742b.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/react-final-cart/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7c442833.chunk.js": "/react-final-cart/static/js/2.7c442833.chunk.js",
+    "static/js/2.7c442833.chunk.js.map": "/react-final-cart/static/js/2.7c442833.chunk.js.map",
+    "static/js/3.d688627b.chunk.js": "/react-final-cart/static/js/3.d688627b.chunk.js",
+    "static/js/3.d688627b.chunk.js.map": "/react-final-cart/static/js/3.d688627b.chunk.js.map",
+    "index.html": "/react-final-cart/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/react-final-cart/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.546112bb.chunk.css.map": "/react-final-cart/static/css/main.546112bb.chunk.css.map",
+    "static/js/2.7c442833.chunk.js.LICENSE.txt": "/react-final-cart/static/js/2.7c442833.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ba6742b.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.7c442833.chunk.js",
+    "static/css/main.546112bb.chunk.css",
+    "static/js/main.37e7b3d2.chunk.js"
+  ]
+}
